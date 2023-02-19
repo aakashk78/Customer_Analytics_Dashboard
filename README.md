@@ -1,6 +1,8 @@
 # Customer_Analytics_Dashboard
 Customer Lifetime Value analysis using Machine Learning
 
+Dashboard URL: https://aakashk78-customer-analytics-dashboard-web-app-smhsbc.streamlit.app/
+
 This dashboard summarizes results for over 66,000 transactions & 25,000 customers of CDNOW using XGBoostRegressor and XGBoostClassifier
 
 1. Predict customer spending in the next 90 days
